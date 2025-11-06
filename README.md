@@ -7,8 +7,8 @@ This folder includes:
 
 
 📘 Lecture script in each week**
-    1. Lecture 1: Programming 20251006
-    2. Lecture 2: Programming 20251013
-    3. Lecture 3: Programming 20251020
-    4. Lecture 4: Programming 20251027
-    5. Lecture 5: Programming 20251103
+- Lecture 1: Programming 20251006
+- Lecture 2: Programming 20251013
+- Lecture 3: Programming 20251020
+- Lecture 4: Programming 20251027
+- Lecture 5: Programming 20251103
