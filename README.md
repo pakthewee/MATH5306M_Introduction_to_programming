@@ -1,2 +1,6 @@
 # MATH5306M_Introduction_to_programming
-This is the note for the lecture script in program name: MATH5306M_Introduction_to_programming (2025-2026)
+📘 Lecture Notes for the module **MATH5306M: Introduction to Programming (2025–2026)**  
+This folder includes:
+- Lecture summaries  
+- Example codes  
+- Practice problems and solutions  
